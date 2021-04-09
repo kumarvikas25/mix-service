@@ -10,5 +10,7 @@ public class MixController {
 	public String getData() {
 		return " I am coming from mix Services";
 	}
+	
+   
 
 }
